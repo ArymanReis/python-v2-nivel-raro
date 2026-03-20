@@ -1,0 +1,19 @@
+# Configuracoes do Editor (VS Code)
+.vscode/
+
+# Ambientes Virtuais
+venv/
+env/
+.venv/
+
+# Arquivos temporários do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de sistema e cache do Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# (Opcional) Ignore bases de dados gigantes se formos usar no futuro
+# *.csv
+# *.xlsx
